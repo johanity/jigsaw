@@ -1,3 +1,36 @@
+
+Before anything:
+        - Go look at Fridge Magnet Demo
+
+        Extra credit:
+
+                 When the page loads, count off seconds in the textfield.
+                            - Add a text field showing Time: 0
+                When the user clicks the done button, stop timer at elapsed time.
+                            - A button Done.
+                Clever math to figure out if the pieces are in the correct place.
+                            - 'Congratulations you got it' or 'better luck next time' displayed when done button pressed.
+                                
+                
 (1) - Header 'Jigsaw Puzzle' 
+
 (2) - Below heading the image of the background image
+
 (3) - At the very bottom of the page, 12 puzzle piece images.
+
+(4) - When the page is loaded:
+
+            - Script that selects one of the jigsaw sets (folder 1, 2, or 3) RANDOMLY.
+                    - Puzzle pieces for selected jigsaw also arranged RANDOMLY.
+                            - Puzzle pieces are drag/drop
+
+            - DO IN STRAIGHT JAVASCRIPT.  ===> Does not use JQuery or JQuery Drag function.
+
+
+
+            
+
+
+
+
+
